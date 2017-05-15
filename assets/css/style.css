@@ -1,0 +1,92 @@
+.wrapper {
+	font-family: "Times New Roman", Georgia;
+	margin-left: 20px;
+}
+
+#name {
+	background-color: rgb(194, 102,35);
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	/*margin-left: 20px;*/
+	width: 300px;
+	/*font-family: "Times New Roman", Georgia;*/
+}
+
+#text {
+	width: 500px;
+	background-color: rgb(253, 222, 199);
+	color: rgb(66, 116, 79);
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	/*margin-left: 20px;*/
+	/*font-family: "Times New Roman", Georgia;*/
+	margin-bottom: 10px;
+}
+
+#holdsRandomNumber {
+	width: 250px;
+	height: 150px;
+	background-color: rgb(81, 193, 117);
+	padding-top: 5px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	/*margin-left: 20px;*/
+	float: left;
+	/*font-family: "Times New Roman", Georgia;*/
+	font-size: 40px;
+}
+
+#winsLosses {
+	width: 100px;
+	height: 150px;
+	background-color: rgb(66, 252, 251);
+	float: left;
+	margin-left: 10px;
+	padding-top: 10px;
+	padding-left: 10px;
+	/*font-family: "Times New Roman", Georgia;*/
+	font-size: 20px;
+}
+
+#images {
+	clear: both;
+	/*margin-left: 20px;*/
+}
+
+img {
+	width: 100px;
+	height: 100px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#redDiamond, #blueDiamond, #yellowDiamond, #greenDiamond {
+	border: 2px solid #eee;
+}
+
+#textTotal {
+	width: 260px;
+	color: rgb(213, 229, 236);
+	background-color: rgb(39, 153, 138);
+	/*font-family: "Times New Roman", Georgia;*/
+	/*margin-left: 20px;*/
+	margin-bottom: 10px;
+	padding-left: 10px;
+	font-size: 20px;
+}
+
+#playerScore {
+	width: 260px;
+	height: 150px;
+	color: rgb(213, 229, 235);
+	background-color: rgb(39, 153, 138);
+	/*font-family: "Times New Roman", Georgia;*/
+	/*margin-left: 20px;*/
+	padding-left: 10px;
+	/*padding-top: 5px;*/
+	font-size: 40px;
+}
+
